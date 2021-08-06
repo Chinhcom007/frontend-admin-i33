@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/frontend-admin-i33/static/css/main.6c92e335.chunk.css",
+    "main.js": "/frontend-admin-i33/static/js/main.42a4ff11.chunk.js",
+    "main.js.map": "/frontend-admin-i33/static/js/main.42a4ff11.chunk.js.map",
+    "runtime-main.js": "/frontend-admin-i33/static/js/runtime-main.4400f486.js",
+    "runtime-main.js.map": "/frontend-admin-i33/static/js/runtime-main.4400f486.js.map",
+    "static/css/2.5bc66304.chunk.css": "/frontend-admin-i33/static/css/2.5bc66304.chunk.css",
+    "static/js/2.2d6abf6d.chunk.js": "/frontend-admin-i33/static/js/2.2d6abf6d.chunk.js",
+    "static/js/2.2d6abf6d.chunk.js.map": "/frontend-admin-i33/static/js/2.2d6abf6d.chunk.js.map",
+    "index.html": "/frontend-admin-i33/index.html",
+    "static/css/2.5bc66304.chunk.css.map": "/frontend-admin-i33/static/css/2.5bc66304.chunk.css.map",
+    "static/css/main.6c92e335.chunk.css.map": "/frontend-admin-i33/static/css/main.6c92e335.chunk.css.map",
+    "static/js/2.2d6abf6d.chunk.js.LICENSE.txt": "/frontend-admin-i33/static/js/2.2d6abf6d.chunk.js.LICENSE.txt",
+    "static/js/main.42a4ff11.chunk.js.LICENSE.txt": "/frontend-admin-i33/static/js/main.42a4ff11.chunk.js.LICENSE.txt",
+    "static/media/angular.jpg": "/frontend-admin-i33/static/media/angular.b5045666.jpg",
+    "static/media/argon-react.png": "/frontend-admin-i33/static/media/argon-react.128d71d3.png",
+    "static/media/bootstrap.jpg": "/frontend-admin-i33/static/media/bootstrap.bd712487.jpg",
+    "static/media/all.min.css": "/frontend-admin-i33/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/github.svg": "/frontend-admin-i33/static/media/github.6c955556.svg",
+    "static/media/google.svg": "/frontend-admin-i33/static/media/google.eae9aa93.svg",
+    "static/media/nucleo.css": "/frontend-admin-i33/static/media/nucleo-icons.d6a66724.ttf",
+    "static/media/profile-cover.jpg": "/frontend-admin-i33/static/media/profile-cover.97899245.jpg",
+    "static/media/react.jpg": "/frontend-admin-i33/static/media/react.0e8c9066.jpg",
+    "static/media/sketch.jpg": "/frontend-admin-i33/static/media/sketch.a6af780a.jpg",
+    "static/media/team-1-800x800.jpg": "/frontend-admin-i33/static/media/team-1-800x800.fa5a7ac2.jpg",
+    "static/media/team-2-800x800.jpg": "/frontend-admin-i33/static/media/team-2-800x800.3e08ef14.jpg",
+    "static/media/team-3-800x800.jpg": "/frontend-admin-i33/static/media/team-3-800x800.70911cdd.jpg",
+    "static/media/team-4-800x800.jpg": "/frontend-admin-i33/static/media/team-4-800x800.99c612eb.jpg",
+    "static/media/vue.jpg": "/frontend-admin-i33/static/media/vue.43bd93a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4400f486.js",
+    "static/css/2.5bc66304.chunk.css",
+    "static/js/2.2d6abf6d.chunk.js",
+    "static/css/main.6c92e335.chunk.css",
+    "static/js/main.42a4ff11.chunk.js"
+  ]
+}
